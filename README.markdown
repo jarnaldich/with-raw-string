@@ -17,10 +17,17 @@ raw string syntax, so that you can write things like:
 
 ## Installation ##
 
-Just clone the repo in your user collects dir. In case you don't know
-where it is, eval this:
+To install Rackjure with Racket 5.3.4 and newer:
 
+```sh
+raco pkg install racket-raw-string
 ```
-(require setup/dirs)
-(find-user-collects-dir)
+
+On older versions of Racket (either you'll need Git or download the tarball
+and extract them manually):
+
+```sh
+git clone https://github.com/cmpitg/racket-raw-string.git
+raco link racket-raw-string
+raco setup racket-raw-string
 ```
