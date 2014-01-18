@@ -1,5 +1,9 @@
 # `racket-raw-string` #
 
+This is a modified version of
+[`with-raw-string`](https://github.com/jarnaldich/with-raw-string) library
+written by [jarnaldich](https://github.com/jarnaldich).
+
 This is an extension language on top of Racket that tunes the reader to add
 raw string syntax, so that you can write things like:
 
