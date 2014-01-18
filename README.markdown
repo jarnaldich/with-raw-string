@@ -4,7 +4,7 @@ This is an extension language on top of Racket that tunes the reader to add
 raw string syntax, so that you can write things like:
 
 ```racket
-#lang with-raw-string racket #\$
+#lang raw-string racket #\$
 
 (directory-list $"\\SERVER\Share")          ; list unc paths under windows
 (directory-list $[c:\Program Files] )       ; use paring chars as delimiters
