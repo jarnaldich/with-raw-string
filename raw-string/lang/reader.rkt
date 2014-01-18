@@ -6,7 +6,7 @@
                  (rd in)))
   
   (require syntax/readerr
-           (prefix-in raw: "reader_extension.rkt"))
+           (prefix-in raw: "reader-extension.rkt"))
     
   (define readtable-hook
     (case-lambda
