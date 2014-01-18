@@ -38,5 +38,6 @@ This library is distributed under the terms of the GNU General Public License
 v3.0 (GPLv3).  See [`COPYING`](/COPYING) for further information.
 
 Copyright 2014 (C)  Duong Nguyen ([@cmpitg](https://github.com/cmpitg))
+
 Copyright 2011 (C)  Joan Arnaldich ([@jarnaldich](https://github.com/jarnaldich))
 
