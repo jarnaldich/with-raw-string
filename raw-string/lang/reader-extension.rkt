@@ -1,3 +1,23 @@
+;;
+;; This file is part of racket-raw-string project.
+;;
+;; Copyright (C) 2014  Duong Nguyen (@cmpitg)
+;; Copyright (C) 2011  Joan Arnaldich (@jarnaldich)
+;; 
+;; racket-raw-string is free software: you can redistribute it and/or modify
+;; it under the terms of the GNU General Public License as published by the
+;; Free Software Foundation, either version 3 of the License, or (at your
+;; option) any later version.
+;; 
+;; racket-raw-string is distributed in the hope that it will be useful, but
+;; WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY
+;; or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License
+;; for more details.
+;; 
+;; You should have received a copy of the GNU General Public License along
+;; with racket-raw-string.  If not, see <http://www.gnu.org/licenses/>.
+;;
+
 #lang racket
 
 (require syntax/readerr)

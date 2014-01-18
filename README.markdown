@@ -2,7 +2,7 @@
 
 This is a modified version of
 [`with-raw-string`](https://github.com/jarnaldich/with-raw-string) library
-written by [jarnaldich](https://github.com/jarnaldich).
+written by [@jarnaldich](https://github.com/jarnaldich).
 
 This is an extension language on top of Racket that tunes the reader to add
 raw string syntax, so that you can write things like:
@@ -31,3 +31,12 @@ git clone https://github.com/cmpitg/racket-raw-string.git
 raco link racket-raw-string
 raco setup racket-raw-string
 ```
+
+## License ##
+
+This library is distributed under the terms of the GNU General Public License
+v3.0 (GPLv3).  See [`COPYING`](/COPYING) for further information.
+
+Copyright 2014 (C)  Duong Nguyen ([@cmpitg](https://github.com/cmpitg))
+Copyright 2011 (C)  Joan Arnaldich ([@jarnaldich](https://github.com/jarnaldich))
+
